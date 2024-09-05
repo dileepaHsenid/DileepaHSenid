@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hi, I'm Dileepa Malshan! 👋 </h1>
 
-🧑🏻‍💻  An undergraduate Software Engineer <br/>
+🧑🏻‍💻  An undergraduate Software Engineer<br/>
 🎓  Studies Software Engineering at the University of Westminster 🏴󠁧󠁢󠁥󠁮󠁧󠁿 <br/>
 💻  Informatics Institute of Technology 🇱🇰 <br/>
 🌱  Currently in the Second year of my higher education <br/>
